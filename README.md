@@ -49,5 +49,5 @@ Unauthorized use of this script on networks you do not own is illegal.
 
 ## 🧠 Author
 
-Made by Anas ✨
+Made by zadwen
 
