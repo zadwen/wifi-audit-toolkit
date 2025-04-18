@@ -1,3 +1,5 @@
+![Wi-Fi Audit Toolkit Banner](./wifi_audit_banner.jpg)
+
 # Wi-Fi Audit Toolkit
 
 A simple but powerful bash-based Wi-Fi auditing tool.  
