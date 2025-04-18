@@ -43,7 +43,8 @@ Unauthorized use of this script on networks you do not own is illegal.
 
 ## 📸 Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/example/screenshot.png)
+![image](https://github.com/user-attachments/assets/dc4d20f7-9852-43f8-83c2-9b7e0cf93bfc)
+
 
 ---
 
