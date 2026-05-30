@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Wi-Fi Audit Toolkit - For Educational Use Only
-# Made by Anas (and some help from ChatGPT 😉)
+
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
